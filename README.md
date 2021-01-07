@@ -4,11 +4,11 @@ Minimalist application built with ASP.NET Core Web Application. Using Project te
 
 ### Live example
 
-https://madflixrental.azurewebsites.net/
+https://madflix.azurewebsites.net/
 
 ### How to start
 
-Just start and enjoy via https://madflixrental.azurewebsites.net/
+Just start and enjoy via https://madflix.azurewebsites.net/
 
 ```
 
